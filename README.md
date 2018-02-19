@@ -1,6 +1,6 @@
-# Magento 2 Custom Form
+# Magento 2 Custom Contact Form
 
-Custom form for Magento 2, using a preference to override core. 
+Custom contact form for Magento 2, using a preference to override core. 
 
 I've used a preference here, which for the purposes of what I'm doing here, acts as a local override that we used in Magento 1:
 
